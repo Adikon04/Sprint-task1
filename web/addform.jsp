@@ -1,6 +1,6 @@
 <form action="/add-task" method="post">
     <div class="row mt-3">
-        <div class="col-12">
+        <div class="col-10">
             <label>NAME : </label>
         </div>
     </div>

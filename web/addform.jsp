@@ -26,7 +26,7 @@
     </div>
     <div class="row mt">
         <div class="col-12">
-            <input type="text" class="form-control" name="task_Deadlinedate">
+            <input type="date" class="form-control" name="task_Deadlinedate">
         </div>
     </div>
     <div class="row mt-3">

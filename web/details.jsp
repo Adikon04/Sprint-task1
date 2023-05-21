@@ -112,7 +112,7 @@
                                     </div>
                                     <div class="row mt">
                                         <div class="col-12">
-                                            <input type="text" class="form-control" name="task_Deadlinedate" value="<%=task.getDeadlineDate()%>">
+                                            <input type="date" class="form-control" name="task_Deadlinedate" value="<%=task.getDeadlineDate()%>">
                                         </div>
                                     </div>
                                     <div class="row mt-3">
